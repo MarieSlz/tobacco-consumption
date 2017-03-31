@@ -1,0 +1,76 @@
+"","year","disease","class","deathtotal","ratiototal"
+"1",2010,"Cardiovascular disease","Female",398854,12.9603344942079
+"2",2010,"Cardiovascular disease","Male",385600,13.1197496825886
+"3",2010,"Cardiovascular disease","Overall",784454,13.0386264815254
+"4",2010,"Cerebrovascular disease","Female",77109,2.58739328632593
+"5",2010,"Cerebrovascular disease","Male",52367,1.81170241513995
+"6",2010,"Cerebrovascular disease","Overall",129476,2.20643598566907
+"7",2010,"Chronic obstructive pulmonary disease","Female",127279,4.35320300122118
+"8",2010,"Chronic obstructive pulmonary disease","Male",132454,4.81712034800328
+"9",2010,"Chronic obstructive pulmonary disease","Overall",259733,4.58104208857281
+"10",2010,"Coronary heart disease","Female",171979,5.35252216680129
+"11",2010,"Coronary heart disease","Male",207580,6.95383253026435
+"12",2010,"Coronary heart disease","Overall",379559,6.13895771250527
+"13",2010,"Heart failure","Female",152322,5.25000698318517
+"14",2010,"Heart failure","Male",126776,4.50853451487841
+"15",2010,"Heart failure","Overall",293558,4.9625663475342
+"16",2011,"Cardiovascular disease","Female",396594,12.7425239262005
+"17",2011,"Cardiovascular disease","Male",386881,13.0906617879689
+"18",2011,"Cardiovascular disease","Overall",783475,12.9135013928722
+"19",2011,"Cerebrovascular disease","Female",76597,2.54204306139592
+"20",2011,"Cerebrovascular disease","Male",52335,1.78842012259897
+"21",2011,"Cerebrovascular disease","Overall",128932,2.17192376369396
+"22",2011,"Chronic obstructive pulmonary disease","Female",131951,4.50684868774689
+"23",2011,"Chronic obstructive pulmonary disease","Male",136712,4.97522879396733
+"24",2011,"Chronic obstructive pulmonary disease","Overall",268663,4.73687952551388
+"25",2011,"Coronary heart disease","Female",168387,5.18894427450087
+"26",2011,"Coronary heart disease","Male",206908,6.92793561604851
+"27",2011,"Coronary heart disease","Overall",375295,6.04299770216175
+"28",2011,"Heart failure","Female",154753,5.28558680174861
+"29",2011,"Heart failure","Male",129635,4.59432272892601
+"30",2011,"Heart failure","Overall",284388,4.94609319030398
+"31",2012,"Cardiovascular disease","Female",395769,12.7208473076381
+"32",2012,"Cardiovascular disease","Male",391662,13.16633889464
+"33",2012,"Cardiovascular disease","Overall",787431,12.9396371358465
+"34",2012,"Cerebrovascular disease","Female",75908,2.50617533025104
+"35",2012,"Cerebrovascular disease","Male",52638,1.77590815164111
+"36",2012,"Cerebrovascular disease","Overall",128546,2.14752651349213
+"37",2012,"Chronic obstructive pulmonary disease","Female",132932,4.48425210723761
+"38",2012,"Chronic obstructive pulmonary disease","Male",137898,4.95381945667937
+"39",2012,"Chronic obstructive pulmonary disease","Overall",270830,4.71486602389545
+"40",2012,"Coronary heart disease","Female",164784,5.07869204840052
+"41",2012,"Coronary heart disease","Male",206685,6.87897482796734
+"42",2012,"Coronary heart disease","Overall",371469,5.96284692710138
+"43",2012,"Heart failure","Female",153999,5.24372158283627
+"44",2012,"Heart failure","Male",131950,4.61382955542687
+"45",2012,"Heart failure","Overall",285949,4.93436901033497
+"46",2013,"Cardiovascular disease","Female",398086,12.6793273720901
+"47",2013,"Cardiovascular disease","Male",402851,13.4335798189993
+"48",2013,"Cardiovascular disease","Overall",800937,13.0497558338161
+"49",2013,"Cerebrovascular disease","Female",75287,2.44197834039449
+"50",2013,"Cerebrovascular disease","Male",53691,1.79774762308033
+"51",2013,"Cerebrovascular disease","Overall",128978,2.12558375050716
+"52",2013,"Chronic obstructive pulmonary disease","Female",138317,4.63599456718029
+"53",2013,"Chronic obstructive pulmonary disease","Male",142691,5.06009334487287
+"54",2013,"Chronic obstructive pulmonary disease","Overall",281008,4.84427795888067
+"55",2013,"Coronary heart disease","Female",161698,4.95213446141888
+"56",2013,"Coronary heart disease","Male",208515,6.87661842713444
+"57",2013,"Coronary heart disease","Overall",370213,5.89728702666111
+"58",2013,"Heart failure","Female",159996,5.38015301826268
+"59",2013,"Heart failure","Male",140126,4.82263827962162
+"60",2013,"Heart failure","Overall",300122,5.10634637982128
+"61",2014,"Cardiovascular disease","Female",399028,12.6647485933917
+"62",2014,"Cardiovascular disease","Male",408747,13.5975974526686
+"63",2014,"Cardiovascular disease","Overall",807775,13.1228893251598
+"64",2014,"Cerebrovascular disease","Female",77632,2.48828883238368
+"65",2014,"Cerebrovascular disease","Male",55471,1.84157480195295
+"66",2014,"Cerebrovascular disease","Overall",133103,2.17067463775854
+"67",2014,"Chronic obstructive pulmonary disease","Female",136096,4.58989488647823
+"68",2014,"Chronic obstructive pulmonary disease","Male",141272,5.02294902758527
+"69",2014,"Chronic obstructive pulmonary disease","Overall",277368,4.80257643625872
+"70",2014,"Coronary heart disease","Female",157181,4.81206843699399
+"71",2014,"Coronary heart disease","Male",207412,6.84589366717422
+"72",2014,"Coronary heart disease","Overall",364593,5.8109206840401
+"73",2014,"Heart failure","Female",162904,5.468337733033
+"74",2014,"Heart failure","Male",146072,5.04380429851516
+"75",2014,"Heart failure","Overall",308976,5.2598408726726
